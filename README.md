@@ -1,3 +1,3 @@
 # odin-recipes
 small brutalist website, 
-shocase some cooking recipes
+showcase some cooking recipes
